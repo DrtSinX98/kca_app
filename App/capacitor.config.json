@@ -1,0 +1,6 @@
+{
+	"appId": "com.kca.app",
+	"appName": "kca",
+	"webDir": "build",
+	"packageClassList": []
+}
